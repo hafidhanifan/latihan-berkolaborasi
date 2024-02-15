@@ -1,1 +1,1 @@
-# latihan-berkolaborasi
+# Ini adalah repository untuk latihan berkolaborasi dengan tim
