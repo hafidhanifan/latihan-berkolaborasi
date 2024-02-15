@@ -1,1 +1,1 @@
-# Ini adalah repository untuk latihan berkolaborasi dengan tim
+# Ini adalah branch baru yang digunakan untuk latihan berkolaborasi dengan tim
